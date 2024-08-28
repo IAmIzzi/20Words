@@ -1,0 +1,29 @@
+
+
+
+pre{
+    color: blue;
+}
+
+span{
+    float: right;
+}
+
+span1{
+    float:left;
+}
+
+h1{
+    font-size:xx-large;
+}
+
+.paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkviolet;
+    font-size: xx-large;
+    text-align: center;
+}
+
+body, html{
+    background-color: black;
+}
